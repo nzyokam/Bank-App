@@ -150,6 +150,6 @@ DWOLLA_ENV=sandbox
 </details>
 
 <details>
-<summary><code>exchangePublicToken</code></summary>
+
 
 ## Thank you for reading ε(_)へ⌒ヽﾌ
